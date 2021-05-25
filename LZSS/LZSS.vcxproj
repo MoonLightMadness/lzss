@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="buffer.c" />
     <ClCompile Include="log.c" />
+    <ClCompile Include="lzss.c" />
     <ClCompile Include="test.c" />
   </ItemGroup>
   <ItemGroup>

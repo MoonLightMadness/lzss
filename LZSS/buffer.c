@@ -1,4 +1,5 @@
 #pragma once
+#include<stdio.h>
 typedef struct StringBuffer 
 {
 	char* chs;
@@ -14,18 +15,18 @@ void mutiple(StringBuffer* buffer) {
 	for (int i = 0; i < size / 2; i++) {
 		newchs[i] = (*buffer).chs[i];
 	}
-	//free(*(buffer.chs));
+	free(buffer->chs);
 	(*buffer).chs = newchs;
 	(*buffer).capacity = size;
 }
 
-void init_stringbuffer(StringBuffer* buffer) {
-	(*buffer).length = 0;
-	(*buffer).capacity = 4;
-	(*buffer).chs = (char*)malloc(sizeof(char) * (*buffer).capacity);
+StringBuffer init_stringbuffer() {
+	int capacity = 4;
+	StringBuffer bf = { (char*)malloc(sizeof(char) * capacity) ,0,capacity };
+	return bf;
 }
 
-void put_to_stringbuffer(StringBuffer* buffer,char chars[],int len) {
+void put_to_stringbuffer(StringBuffer* buffer,char* chars,int len) {
 	for (int i = 0; i < len; i++) {
 		if ((*buffer).length >= (*buffer).capacity) {
 			mutiple(buffer);
@@ -35,5 +36,13 @@ void put_to_stringbuffer(StringBuffer* buffer,char chars[],int len) {
 	}
 }
 
+char* buffer_to_array(StringBuffer* buffer) {
+	char* chs = (char*)malloc(sizeof(char)*buffer->length);
+	for (int i = 0; i < buffer->length; i++)
+	{
+		chs[i] = buffer->chs[i];
+	}
+	return chs;
+}
 
 

@@ -9,6 +9,8 @@ typedef struct StringBuffer
 	int capacity;
 }StringBuffer;
 
-void init_stringbuffer(StringBuffer* buffer);
+StringBuffer init_stringbuffer();
 
-void put_to_stringbuffer(StringBuffer* buffer, char chars[], int len);
+char* buffer_to_array(StringBuffer* buffer);
+
+void put_to_stringbuffer(StringBuffer* buffer, char* chars, int len);

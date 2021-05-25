@@ -24,6 +24,9 @@
     <ClCompile Include="buffer.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="lzss.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="log.h">

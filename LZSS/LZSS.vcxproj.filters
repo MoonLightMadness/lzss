@@ -18,5 +18,19 @@
     <ClCompile Include="test.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="log.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="buffer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="log.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="buffer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

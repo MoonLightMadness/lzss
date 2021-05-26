@@ -1,3 +1,627 @@
+LogEntity{timestamp='2021-05-12 10:06:51.278', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='开始初始化'}
+LogEntity{timestamp='2021-05-12 10:06:51.724', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='初始化完成'}
+LogEntity{timestamp='2021-05-12 10:06:51.725', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='收到1个请求'}
+LogEntity{timestamp='2021-05-12 10:06:51.726', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='收到新的连接请求,ip=/172.29.32.1:57862'}
+LogEntity{timestamp='2021-05-12 10:06:52.440', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='收到1个请求'}
+LogEntity{timestamp='2021-05-12 10:06:52.441', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='开始接收--/172.29.32.1:57862--并处理信息'}
+LogEntity{timestamp='2021-05-12 10:06:52.450', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='接收到的消息为--UniversalEntity{guid='1', authLevel='service', src='test', to='to:self', level='23', message='This is a test', messageType='Test', compressCode='123', timestamp='2021-05-12 10:06:51.840', hashCode='Tu+/vT3RhO+/ve+/ve+/vSZz77+977+977+9I++/vSLvv71sBQ=='}'}
+LogEntity{timestamp='2021-05-12 10:06:52.452', source='dsm.exchange.impl.MessageHandler', signCode='03', message='消息解析为[服务注册]'}
+LogEntity{timestamp='2021-05-12 10:06:52.452', source='dsm.exchange.impl.MessageHandler', signCode='03', message='返回成功消息'}
+LogEntity{timestamp='2021-05-12 10:06:52.454', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='验证通过'}
+LogEntity{timestamp='2021-05-12 10:06:52.454', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='信息处理完毕'}
+LogEntity{timestamp='2021-05-12 10:06:52.544', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='收到1个请求'}
+LogEntity{timestamp='2021-05-12 10:06:52.544', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='开始接收--/172.29.32.1:57862--并处理信息'}
+LogEntity{timestamp='2021-05-12 10:06:52.547', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='接收到的消息为--UniversalEntity{guid='1', authLevel='get_list', src='test', to='to:self', level='23', message='This is a test', messageType='Test', compressCode='123', timestamp='2021-05-12 10:06:52.542', hashCode='MRHvv70577+977+9RGhpWnPvv73vv73vv73vv73vv73Vt++/ve+/vQ=='}'}
+LogEntity{timestamp='2021-05-12 10:06:52.547', source='dsm.exchange.impl.MessageHandler', signCode='03', message='消息解析为[获取服务列表]'}
+LogEntity{timestamp='2021-05-12 10:06:52.549', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='验证通过'}
+LogEntity{timestamp='2021-05-12 10:06:52.550', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='信息处理完毕'}
+LogEntity{timestamp='2021-05-12 11:15:31.776', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='开始初始化'}
+LogEntity{timestamp='2021-05-12 11:15:32.212', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='初始化完成'}
+LogEntity{timestamp='2021-05-12 11:15:32.213', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='收到1个请求'}
+LogEntity{timestamp='2021-05-12 11:15:32.214', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='收到新的连接请求,ip=/172.29.32.1:60695'}
+LogEntity{timestamp='2021-05-12 11:15:32.937', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='收到1个请求'}
+LogEntity{timestamp='2021-05-12 11:15:32.937', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='开始接收--/172.29.32.1:60695--并处理信息'}
+LogEntity{timestamp='2021-05-12 11:15:32.941', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='接收到的消息为--UniversalEntity{guid='1', authLevel='service', src='test', to='to:self', level='23', message='This is a test', messageType='Test', compressCode='123', timestamp='2021-05-12 11:15:32.325', hashCode='RQNEQB1W77+977+9Vu+/vTFhJe+/vVIJ77+9AO+/vSE='}'}
+LogEntity{timestamp='2021-05-12 11:15:32.943', source='dsm.exchange.impl.MessageHandler', signCode='03', message='消息解析为[服务注册]'}
+LogEntity{timestamp='2021-05-12 11:15:32.944', source='dsm.exchange.impl.MessageHandler', signCode='03', message='返回成功消息'}
+LogEntity{timestamp='2021-05-12 11:15:32.945', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='验证通过'}
+LogEntity{timestamp='2021-05-12 11:15:32.945', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='信息处理完毕'}
+LogEntity{timestamp='2021-05-12 11:15:33.45', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='收到1个请求'}
+LogEntity{timestamp='2021-05-12 11:15:33.45', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='开始接收--/172.29.32.1:60695--并处理信息'}
+LogEntity{timestamp='2021-05-12 11:15:33.47', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='接收到的消息为--UniversalEntity{guid='1', authLevel='get_list', src='test', to='to:self', level='23', message='This is a test', messageType='Test', compressCode='123', timestamp='2021-05-12 11:15:33.43', hashCode='77+9Ve+/vWHvv71y3I3vv73vv73vv71lV3pk77+977+9e++/vQ=='}'}
+LogEntity{timestamp='2021-05-12 11:15:33.48', source='dsm.exchange.impl.MessageHandler', signCode='03', message='消息解析为[获取服务列表]'}
+LogEntity{timestamp='2021-05-12 11:15:33.49', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='验证通过'}
+LogEntity{timestamp='2021-05-12 11:15:33.50', source='dsm.exchange.impl.GateExchangerCore', signCode='03', message='信息处理完毕'}
+LogEntity{timestamp='2021-05-18 11:32:07.789', source='test.compress', signCode='03', message='文件名:./LICENSE,文件大小:33859字节,压缩后大小24837,压缩时间:1103,压缩率:26.645798%,解压缩时间:4'}
+LogEntity{timestamp='2021-05-18 11:32:07.836', source='test.compress', signCode='03', message='文件名:./test.db,文件大小:16379字节,压缩后大小907,压缩时间:45,压缩率:94.46242%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 11:32:07.992', source='test.compress', signCode='03', message='文件名:C:\Users\Administrator\Desktop\entertainment\java\dsm\.idea\workspace.xml,文件大小:14059字节,压缩后大小5723,压缩时间:154,压缩率:59.29298%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 11:34:22.467', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小24837,压缩时间:1013,压缩率:26.645798%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 11:34:22.523', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小907,压缩时间:52,压缩率:94.46242%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 11:34:22.679', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14059字节,压缩后大小5723,压缩时间:154,压缩率:59.29298%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 11:36:14.998', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小24837,压缩时间:991,压缩率:26.645798%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 11:36:15.39', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小907,压缩时间:38,压缩率:94.46242%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 11:36:15.184', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14059字节,压缩后大小5723,压缩时间:144,压缩率:59.29298%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 11:38:30.777', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小24837,压缩时间:974,压缩率:26.645798%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 11:38:30.817', source='test.compress', signCode='02', message='错误'}
+LogEntity{timestamp='2021-05-18 11:38:30.987', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14059字节,压缩后大小5723,压缩时间:167,压缩率:59.29298%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 12:10:05.740', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小24837,压缩时间:1505,压缩率:26.645798%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 12:10:05.804', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小907,压缩时间:59,压缩率:94.46242%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 12:10:06.46', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14031字节,压缩后大小5655,压缩时间:240,压缩率:59.696384%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 12:10:07.655', source='test.compress', signCode='03', message='文件名:1.docx,文件大小:23258字节,压缩后大小24427,压缩时间:1595,压缩率:-5.02623%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 12:12:12.797', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小24837,压缩时间:999,压缩率:26.645798%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 12:12:12.843', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小907,压缩时间:44,压缩率:94.46242%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 12:12:12.980', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14031字节,压缩后大小5655,压缩时间:134,压缩率:59.696384%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 12:14:44.771', source='test.compress', signCode='02', message='错误'}
+LogEntity{timestamp='2021-05-18 12:15:32.497', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小24837,压缩时间:1047,压缩率:26.645798%,解压缩时间:4'}
+LogEntity{timestamp='2021-05-18 12:15:32.545', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小907,压缩时间:46,压缩率:94.46242%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 12:15:32.716', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14373字节,压缩后大小5868,压缩时间:170,压缩率:59.17345%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 12:18:21.737', source='test.compress', signCode='02', message='文件名:1.docx,文件大小:1734375字节,压缩后大小1940028,压缩时间:168810,压缩率:-11.857475%,解压缩时间:50'}
+LogEntity{timestamp='2021-05-18 13:34:16.719', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小23161,压缩时间:3735,压缩率:31.595734%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:35:25.792', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小23161,压缩时间:3318,压缩率:31.595734%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:38:41.310', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小25583,压缩时间:2661,压缩率:24.442543%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:39:36.193', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小25583,压缩时间:2612,压缩率:24.442543%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:41:58.289', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小23161,压缩时间:3310,压缩率:31.595734%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 13:43:34.997', source='test.compress', signCode='02', message='文件名:LICENSE,文件大小:33859字节,压缩后大小23101,压缩时间:3328,压缩率:31.772942%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:45:50.572', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小23160,压缩时间:3444,压缩率:31.598686%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:46:54.90', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小50040,压缩时间:604,压缩率:-47.789352%,解压缩时间:4'}
+LogEntity{timestamp='2021-05-18 13:47:34.412', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小27912,压缩时间:4282,压缩率:17.564018%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:49:04.311', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小23161,压缩时间:3249,压缩率:31.595734%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:50:02.908', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小23161,压缩时间:3459,压缩率:31.595734%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:51:08.327', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小23161,压缩时间:7428,压缩率:31.595734%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:51:31.326', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小23164,压缩时间:1757,压缩率:31.586876%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 13:52:17.899', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小25785,压缩时间:1222,压缩率:23.845947%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:52:34.893', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小20474,压缩时间:2862,压缩率:39.53159%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:53:38.478', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小18515,压缩时间:4735,压缩率:45.317345%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:54:18.755', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小16661,压缩时间:10453,压缩率:50.792995%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:54:48.836', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小23833,压缩时间:611,压缩率:29.61103%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 13:55:28.592', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小23833,压缩时间:602,压缩率:29.61103%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:55:42.476', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小26682,压缩时间:373,压缩率:21.196732%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:56:07.741', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小25849,压缩时间:1242,压缩率:23.656929%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 13:56:28.174', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小20565,压缩时间:3171,压缩率:39.262825%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 13:57:26.536', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小20562,压缩时间:5660,压缩率:39.27169%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 13:57:41.349', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小24887,压缩时间:254,压缩率:26.498123%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 13:58:50.220', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小50255,压缩时间:85,压缩率:-48.424347%,解压缩时间:6'}
+LogEntity{timestamp='2021-05-18 13:59:08.987', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小21142,压缩时间:706,压缩率:37.5587%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 14:02:20.311', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小20562,压缩时间:58119,压缩率:39.27169%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 14:02:37.53', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小20615,压缩时间:1577,压缩率:39.115154%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 14:03:27.89', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小20716,压缩时间:1185,压缩率:38.816856%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 14:28:04.864', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小23401,压缩时间:708,压缩率:30.88691%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 14:35:37.193', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小23328,压缩时间:886,压缩率:31.102516%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 14:36:18.751', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小25904,压缩时间:553,压缩率:23.494492%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 14:36:38.841', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小25852,压缩时间:1160,压缩率:23.648071%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 14:36:56.36', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小20739,压缩时间:1142,压缩率:38.74893%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 14:37:15.898', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小20870,压缩时间:924,压缩率:38.362034%,解压缩时间:4'}
+LogEntity{timestamp='2021-05-18 14:43:44.161', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小33859,压缩时间:555,压缩率:0.0%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 14:44:19.131', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小50255,压缩时间:168,压缩率:-48.424347%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 14:44:30.719', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小24851,压缩时间:1457,压缩率:26.604446%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 14:44:50.553', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小18949,压缩时间:1047,压缩率:44.03556%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 14:45:11.246', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小18297,压缩时间:1275,压缩率:45.96119%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 14:45:40.929', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小18641,压缩时间:1572,压缩率:44.945217%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 14:46:10.617', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小18297,压缩时间:1305,压缩率:45.96119%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 14:46:10.658', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小2992,压缩时间:39,压缩率:81.732704%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 14:46:10.863', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14320字节,压缩后大小4789,压缩时间:204,压缩率:66.55727%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 14:50:06.691', source='test.compress', signCode='02', message='文件名:1.docx,文件大小:1734375字节,压缩后大小1556557,压缩时间:235678,压缩率:10.252571%,解压缩时间:32'}
+LogEntity{timestamp='2021-05-18 14:53:31.542', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小18297,压缩时间:1340,压缩率:45.96119%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 14:53:31.592', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小2992,压缩时间:48,压缩率:81.732704%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 14:53:31.805', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14470字节,压缩后大小4819,压缩时间:211,压缩率:66.69661%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 14:55:22.347', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小18297,压缩时间:1385,压缩率:45.96119%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 14:55:22.398', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小2992,压缩时间:49,压缩率:81.732704%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 14:55:22.628', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14470字节,压缩后大小4819,压缩时间:229,压缩率:66.69661%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 14:56:41.114', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小27345,压缩时间:323,压缩率:19.23861%,解压缩时间:4'}
+LogEntity{timestamp='2021-05-18 14:56:41.161', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小12356,压缩时间:45,压缩率:24.561943%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 14:56:41.255', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14470字节,压缩后大小11422,压缩时间:90,压缩率:21.06427%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 15:00:38.15', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小20570,压缩时间:411,压缩率:39.248055%,解压缩时间:5'}
+LogEntity{timestamp='2021-05-18 15:00:38.41', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小3073,压缩时间:22,压缩率:81.238174%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 15:00:38.103', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14470字节,压缩后大小5996,压缩时间:57,压缩率:58.562546%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 15:17:31.21', source='test.compress', signCode='03', message='文件名:1.flac,文件大小:23200151字节,压缩后大小21038015,压缩时间:1011374,压缩率:9.319489%,解压缩时间:183'}
+LogEntity{timestamp='2021-05-18 15:33:22.155', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小20570,压缩时间:285,压缩率:39.248055%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 15:33:22.170', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小3073,压缩时间:11,压缩率:81.238174%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 15:33:22.208', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14470字节,压缩后大小5996,压缩时间:36,压缩率:58.562546%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 16:29:42.133', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小20297,压缩时间:15060,压缩率:40.054344%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 16:29:42.237', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小600,压缩时间:101,压缩率:96.33677%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 16:29:43.470', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14470字节,压缩后大小5104,压缩时间:1232,压缩率:64.72702%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 16:32:17.631', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小16583,压缩时间:135176,压缩率:51.02336%,解压缩时间:4'}
+LogEntity{timestamp='2021-05-18 16:32:19.404', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小399,压缩时间:1771,压缩率:97.56396%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 16:32:38.480', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14470字节,压缩后大小3502,压缩时间:19074,压缩率:75.7982%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 16:34:57.04', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小18535,压缩时间:33802,压缩率:45.258278%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 16:34:57.192', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小488,压缩时间:186,压缩率:97.02058%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 16:35:00.799', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14470字节,压缩后大小4305,压缩时间:3604,压缩率:70.248795%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 16:36:26.858', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小24586,压缩时间:1754,压缩率:27.387108%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 16:36:26.898', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小1230,压缩时间:37,压缩率:92.49039%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 16:36:27.29', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14470字节,压缩后大小7823,压缩时间:124,压缩率:45.936417%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-18 16:37:36.203', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小22410,压缩时间:5406,压缩率:33.81376%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 16:37:36.248', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小830,压缩时间:43,压缩率:94.93253%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 16:37:36.508', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14470字节,压缩后大小6062,压缩时间:257,压缩率:58.10643%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 16:38:48.434', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小18535,压缩时间:36242,压缩率:45.258278%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 16:38:48.619', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小488,压缩时间:183,压缩率:97.02058%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 16:38:52.717', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14470字节,压缩后大小4305,压缩时间:4096,压缩率:70.248795%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 16:39:15.688', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小19338,压缩时间:505,压缩率:42.886673%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-18 16:39:15.719', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小3023,压缩时间:28,压缩率:81.54344%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 16:39:15.821', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14470字节,压缩后大小5359,压缩时间:100,压缩率:62.964756%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 16:39:53.886', source='test.compress', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小18297,压缩时间:1262,压缩率:45.96119%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-18 16:39:53.927', source='test.compress', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小2992,压缩时间:40,压缩率:81.732704%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 16:39:54.141', source='test.compress', signCode='03', message='文件名:workspace.xml,文件大小:14470字节,压缩后大小4819,压缩时间:213,压缩率:66.69661%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-18 16:57:54.845', source='test.compress', signCode='03', message='文件名:1.flac,文件大小:23200151字节,压缩后大小21040341,压缩时间:994499,压缩率:9.309471%,解压缩时间:307'}
+LogEntity{timestamp='2021-05-20 10:12:39.578', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:12:39.648', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:13:46.539', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:13:46.607', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:14:19.708', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:14:19.776', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:14:41.913', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:14:41.986', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:38:37.662', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:38:37.728', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:39:20.458', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:39:20.532', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:39:28.753', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:39:28.818', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:41:23.91', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:41:23.159', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:41:38.395', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:41:38.464', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:41:49.922', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:41:49.992', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:42:01.663', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:42:01.738', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:42:09.339', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:42:09.407', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:42:16.930', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:42:17.31', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:42:25.343', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:42:25.431', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:42:31.598', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:42:31.684', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:42:45.763', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:42:45.829', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:43:28.294', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:43:28.362', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:43:42.503', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:43:42.576', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:43:50.127', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:43:50.192', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:44:58.502', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:44:58.570', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:46:22.223', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:46:22.291', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:46:46.414', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:46:46.479', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:47:04.343', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:47:04.408', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:47:22.316', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:47:22.384', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:58:33.444', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:58:33.514', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:59:06.975', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:59:07.54', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 10:59:51.413', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 10:59:51.486', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:00:14.05', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:00:14.80', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:00:48.138', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:00:48.219', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:03:08.512', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:03:08.584', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:04:33.746', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:04:33.821', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:05:02.204', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:05:02.274', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:05:08.884', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:05:08.964', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:05:36.70', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:05:36.143', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:07:45.88', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:07:45.161', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:08:04.478', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:08:04.552', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:11:26.831', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:11:26.904', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:13:30.768', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:13:30.843', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:13:46.722', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:13:46.794', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:14:20.501', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:14:20.591', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:15:22.501', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:15:22.578', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:16:48.850', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:16:48.923', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:17:41.165', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:17:41.240', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:17:52.75', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:17:52.160', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:18:13.306', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:18:13.379', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:18:42.11', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:18:42.85', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:22:24.718', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:22:24.811', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:29:47.625', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:29:47.698', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 11:30:07.326', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 11:30:07.390', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 14:03:07.721', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 14:03:07.789', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 14:32:10.927', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 14:32:10.994', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 14:32:18.920', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 14:32:18.990', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 14:32:31.327', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 14:32:31.401', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 14:32:38.683', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 14:32:38.758', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 14:33:26.477', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 14:33:26.551', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 14:33:39.968', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 14:33:40.42', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 14:33:53.749', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 14:33:53.822', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 14:35:45.112', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 14:35:45.184', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 14:36:56.51', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 14:36:56.120', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 14:37:04.844', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 14:37:04.912', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 14:38:55.652', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 14:38:55.721', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 14:49:03.190', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 14:49:03.257', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 15:02:47.05', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 15:02:47.73', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 15:03:39.28', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 15:03:39.97', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 15:03:45.675', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 15:03:45.746', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 15:04:54.695', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 15:04:54.760', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 15:05:37.134', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 15:05:37.203', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 15:05:50.948', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到配置文件'}
+LogEntity{timestamp='2021-05-20 15:05:51.13', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 15:07:43.267', source='dsm.flow.FlowConfigReader', signCode='03', message='找不到线程池配置文件'}
+LogEntity{timestamp='2021-05-20 15:07:43.337', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 15:10:00.198', source='dsm.flow.FlowConfigReader', signCode='02', message='找不到线程池配置文件,切换到默认配置'}
+LogEntity{timestamp='2021-05-20 15:10:00.273', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 15:10:57.560', source='dsm.flow.FlowConfigReader', signCode='02', message='找不到线程池配置文件,切换到默认配置'}
+LogEntity{timestamp='2021-05-20 15:10:57.639', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 15:17:26.817', source='dsm.flow.FlowConfigReader', signCode='02', message='找不到线程池配置文件,切换到默认配置'}
+LogEntity{timestamp='2021-05-20 15:17:26.885', source='dsm.flow.FlowUtils', signCode='03', message='FlowEngine初始化完成'}
+LogEntity{timestamp='2021-05-20 16:51:22.40', source='dsm.log.Logger', signCode='03', message='test'}
+LogEntity{timestamp='2021-05-20 16:51:41.487', source='dsm.log.LogSystem', signCode='03', message='test'}
+LogEntity{timestamp='2021-05-20 16:51:51.605', source='test.system', signCode='03', message='test'}
+LogEntity{timestamp='2021-05-20 16:53:32.291', source='test.system stacktrace system.java 41', signCode='03', message='test'}
+LogEntity{timestamp='2021-05-20 16:54:43.83', source='File:system.java Class:test.system Method:stacktrace Line:41', signCode='03', message='test'}
+LogEntity{timestamp='2021-05-20 16:55:36.75', source='File=system.java&Class=test.system&Method=stacktrace&Line=41', signCode='03', message='test'}
+LogEntity{timestamp='2021-05-20 16:56:08.655', source='File=system.java/Class=test.system/Method=stacktrace/Line=41', signCode='03', message='test'}
+LogEntity{timestamp='2021-05-20 16:56:32.332', source='File->system.java/Class->test.system/Method->stacktrace/Line->41', signCode='03', message='test'}
+LogEntity{timestamp='2021-05-20 16:57:31.173', source='system.java(test.system.stacktrace.41', signCode='03', message='test)'}
+LogEntity{timestamp='2021-05-20 16:58:05.209', source='system.java(test.system.stacktrace.41)', signCode='03', message='test'}
+LogEntity{timestamp='2021-05-20 17:00:25.135', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.init.61)', signCode='03', message='开始初始化'}
+LogEntity{timestamp='2021-05-20 17:00:25.584', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.init.78)', signCode='03', message='初始化完成'}
+LogEntity{timestamp='2021-05-20 17:00:25.585', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.91)', signCode='03', message='收到1个请求'}
+LogEntity{timestamp='2021-05-20 17:00:25.585', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.97)', signCode='03', message='收到新的连接请求,ip=/192.168.128.1:61827'}
+LogEntity{timestamp='2021-05-20 17:00:26.378', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.91)', signCode='03', message='收到1个请求'}
+LogEntity{timestamp='2021-05-20 17:00:26.378', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.103)', signCode='03', message='开始接收--/192.168.128.1:61827--并处理信息'}
+LogEntity{timestamp='2021-05-20 17:00:26.383', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.messagePreHandle.166)', signCode='03', message='接收到的消息为--UniversalEntity{guid='1', authLevel='service', src='test', to='to:self', level='23', message='This is a test', messageType='Test', compressCode='123', timestamp='2021-05-20 17:00:25.697', hashCode='SC9I77+91prvv73vv73vv70A2Jfvv71/77+9dgfvv717Uw=='}'}
+LogEntity{timestamp='2021-05-20 17:00:26.384', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.messagePreHandle.168)', signCode='03', message='验证通过'}
+LogEntity{timestamp='2021-05-20 17:00:26.385', source='MessageHandler.java(dsm.exchange.impl.MessageHandler.registerService.70)', signCode='03', message='消息解析为[服务注册]'}
+LogEntity{timestamp='2021-05-20 17:00:26.386', source='MessageHandler.java(dsm.exchange.impl.MessageHandler.registerService.73)', signCode='03', message='返回成功消息'}
+LogEntity{timestamp='2021-05-20 17:00:26.387', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.105)', signCode='03', message='信息处理完毕'}
+LogEntity{timestamp='2021-05-20 17:00:26.488', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.91)', signCode='03', message='收到1个请求'}
+LogEntity{timestamp='2021-05-20 17:00:26.489', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.103)', signCode='03', message='开始接收--/192.168.128.1:61827--并处理信息'}
+LogEntity{timestamp='2021-05-20 17:00:26.491', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.messagePreHandle.166)', signCode='03', message='接收到的消息为--UniversalEntity{guid='1', authLevel='get_list', src='test', to='to:self', level='23', message='This is a test', messageType='Test', compressCode='123', timestamp='2021-05-20 17:00:26.486', hashCode='77+9Tgjvv71077+9ce+/vVRMATQ8Wwfvv71777+9fu+/vQ=='}'}
+LogEntity{timestamp='2021-05-20 17:00:26.491', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.messagePreHandle.168)', signCode='03', message='验证通过'}
+LogEntity{timestamp='2021-05-20 17:00:26.491', source='MessageHandler.java(dsm.exchange.impl.MessageHandler.getServiceList.85)', signCode='03', message='消息解析为[获取服务列表]'}
+LogEntity{timestamp='2021-05-20 17:00:26.493', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.105)', signCode='03', message='信息处理完毕'}
+LogEntity{timestamp='2021-05-21 09:29:29.434', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.init.61)', signCode='03', message='开始初始化'}
+LogEntity{timestamp='2021-05-21 09:29:30.325', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.init.78)', signCode='03', message='初始化完成'}
+LogEntity{timestamp='2021-05-21 09:29:30.326', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.91)', signCode='03', message='收到1个请求'}
+LogEntity{timestamp='2021-05-21 09:29:30.327', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.97)', signCode='03', message='收到新的连接请求,ip=/192.168.112.1:64558'}
+LogEntity{timestamp='2021-05-21 09:29:31.434', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.91)', signCode='03', message='收到1个请求'}
+LogEntity{timestamp='2021-05-21 09:29:31.434', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.103)', signCode='03', message='开始接收--/192.168.112.1:64558--并处理信息'}
+LogEntity{timestamp='2021-05-21 09:29:31.440', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.messagePreHandle.166)', signCode='03', message='接收到的消息为--UniversalEntity{guid='1', authLevel='service', src='test', to='to:self', level='23', message='This is a test', messageType='Test', compressCode='123', timestamp='2021-05-21 09:29:30.435', hashCode='U++/vU9277+9RA3vv70h77+9fx7vv70K77+977+9L++/vUbvv70='}'}
+LogEntity{timestamp='2021-05-21 09:29:31.441', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.messagePreHandle.168)', signCode='03', message='验证通过'}
+LogEntity{timestamp='2021-05-21 09:29:31.443', source='MessageHandler.java(dsm.exchange.impl.MessageHandler.registerService.70)', signCode='03', message='消息解析为[服务注册]'}
+LogEntity{timestamp='2021-05-21 09:29:31.443', source='MessageHandler.java(dsm.exchange.impl.MessageHandler.registerService.73)', signCode='03', message='返回成功消息'}
+LogEntity{timestamp='2021-05-21 09:29:31.445', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.105)', signCode='03', message='信息处理完毕'}
+LogEntity{timestamp='2021-05-21 09:29:31.549', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.91)', signCode='03', message='收到1个请求'}
+LogEntity{timestamp='2021-05-21 09:29:31.549', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.103)', signCode='03', message='开始接收--/192.168.112.1:64558--并处理信息'}
+LogEntity{timestamp='2021-05-21 09:29:31.552', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.messagePreHandle.166)', signCode='03', message='接收到的消息为--UniversalEntity{guid='1', authLevel='get_list', src='test', to='to:self', level='23', message='This is a test', messageType='Test', compressCode='123', timestamp='2021-05-21 09:29:31.547', hashCode='GO+/vXcjdGou77+9XRwu77+977+9Au+/vXU3LO+/vSI='}'}
+LogEntity{timestamp='2021-05-21 09:29:31.552', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.messagePreHandle.168)', signCode='03', message='验证通过'}
+LogEntity{timestamp='2021-05-21 09:29:31.552', source='MessageHandler.java(dsm.exchange.impl.MessageHandler.getServiceList.85)', signCode='03', message='消息解析为[获取服务列表]'}
+LogEntity{timestamp='2021-05-21 09:29:31.554', source='GateExchangerCore.java(dsm.exchange.impl.GateExchangerCore.start.105)', signCode='03', message='信息处理完毕'}
+LogEntity{timestamp='2021-05-21 15:03:46.538', source='FlowUtils.java(dsm.flow.FlowUtils.generateByName.195)', signCode='03', message='FlowEngine加入流程:test_car_make'}
+LogEntity{timestamp='2021-05-21 15:03:46.540', source='FlowUtils.java(dsm.flow.FlowUtils.generateByName.195)', signCode='03', message='FlowEngine加入流程:test_car_make'}
+LogEntity{timestamp='2021-05-21 15:05:18.990', source='FlowUtils.java(dsm.flow.FlowUtils.generateByName.196)', signCode='03', message='FlowEngine加入流程:test_car_make'}
+LogEntity{timestamp='2021-05-21 15:05:18.992', source='FlowUtils.java(dsm.flow.FlowUtils.generateByName.196)', signCode='03', message='FlowEngine加入流程:test_car_make'}
+LogEntity{timestamp='2021-05-21 15:05:47.979', source='FlowUtils.java(dsm.flow.FlowUtils.generateByName.197)', signCode='03', message='FlowEngine加入流程:test_car_make'}
+LogEntity{timestamp='2021-05-21 15:05:47.981', source='FlowUtils.java(dsm.flow.FlowUtils.generateByName.197)', signCode='03', message='FlowEngine加入流程:test_car_make'}
+LogEntity{timestamp='2021-05-21 15:07:43.523', source='FlowConfigReader.java(dsm.flow.FlowConfigReader.read.42)', signCode='02', message='找不到线程池配置文件,切换到默认配置'}
+LogEntity{timestamp='2021-05-21 15:07:43.598', source='FlowUtils.java(dsm.flow.FlowUtils.generateByName.197)', signCode='03', message='FlowEngine加入流程:test_car_make2021-05-21 15:07:43.596'}
+LogEntity{timestamp='2021-05-21 15:07:43.600', source='FlowUtils.java(dsm.flow.FlowUtils.generateByName.197)', signCode='03', message='FlowEngine加入流程:test_car_make2021-05-21 15:07:43.600'}
+LogEntity{timestamp='2021-05-24 08:10:49.288', source='Receiver.java(dsm.utils.net.Receiver.run.70)', signCode='03', message='接入:/192.168.128.1:58399'}
+LogEntity{timestamp='2021-05-24 08:10:49.698', source='Receiver.java(dsm.utils.net.Receiver.run.75)', signCode='03', message='收到:UniversalEntity{guid='1621815049691', authLevel='1', src='test', to='core', level='1', message='set_name test', messageType='null', compressCode='00001', timestamp='2021-05-24 08:10:49.692', hashCode='Pu+/vTJA6resV++/vU7vv70fy4bvv73vv73vv71H77+9Mg=='}'}
+LogEntity{timestamp='2021-05-24 08:10:49.698', source='CoreMessageHandler.java(dsm.core.CoreMessageHandler.invoke.31)', signCode='03', message='开始处理'}
+LogEntity{timestamp='2021-05-24 08:10:49.699', source='CoreMessageHandler.java(dsm.core.CoreMessageHandler.invoke.37)', signCode='03', message='接收到更名指令'}
+LogEntity{timestamp='2021-05-24 08:10:49.699', source='CoreMessageHandler.java(dsm.core.CoreMessageHandler.resetName.74)', signCode='03', message='reset_name:test'}
+LogEntity{timestamp='2021-05-24 08:10:50.697', source='Receiver.java(dsm.utils.net.Receiver.run.70)', signCode='03', message='接入:/192.168.128.1:58405'}
+LogEntity{timestamp='2021-05-24 08:10:51.107', source='Receiver.java(dsm.utils.net.Receiver.run.75)', signCode='03', message='收到:UniversalEntity{guid='1621815051106', authLevel='1', src='test', to='core', level='1', message='get_ip test', messageType='null', compressCode='00001', timestamp='2021-05-24 08:10:51.106', hashCode='cXQA77+9SNG177+9Fe+/vQHvv70Z77+977+977+977+9ME8='}'}
+LogEntity{timestamp='2021-05-24 08:10:51.108', source='CoreMessageHandler.java(dsm.core.CoreMessageHandler.invoke.31)', signCode='03', message='开始处理'}
+LogEntity{timestamp='2021-05-24 08:10:51.110', source='CoreMessageHandler.java(dsm.core.CoreMessageHandler.send.109)', signCode='03', message='已发送:UniversalEntity{guid='0', authLevel='1', src='core', to='remote', level='1', message='/192.168.128.1:58399', messageType='reply', compressCode='00001', timestamp='2021-05-24 08:10:51.109', hashCode='77+9CMS/77+977+977+9H2FFOz3vv71l77+9TR0aUAM='}'}
+LogEntity{timestamp='2021-05-24 08:57:23.483', source='compress.java(test.compress.run.206)', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小18297,压缩时间:1747,压缩率:45.96119%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-24 08:57:23.546', source='compress.java(test.compress.run.206)', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小2992,压缩时间:54,压缩率:81.732704%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-24 08:57:23.867', source='compress.java(test.compress.run.206)', signCode='03', message='文件名:workspace.xml,文件大小:15817字节,压缩后大小5228,压缩时间:318,压缩率:66.94696%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-24 08:58:26.692', source='compress.java(test.compress.run.206)', signCode='03', message='文件名:西游记.txt,文件大小:1172121字节,压缩后大小549976,压缩时间:62646,压缩率:53.078564%,解压缩时间:21'}
+LogEntity{timestamp='2021-05-24 09:03:20.298', source='compress.java(test.compress.run.208)', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小18297,压缩时间:1365,压缩率:45.96119%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-24 09:03:20.856', source='compress.java(test.compress.run.208)', signCode='03', message='文件名:log.txt,文件大小:52560字节,压缩后大小13517,压缩时间:555,压缩率:74.28272%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-24 09:03:21.90', source='compress.java(test.compress.run.208)', signCode='03', message='文件名:workspace.xml,文件大小:15817字节,压缩后大小5228,压缩时间:232,压缩率:66.94696%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-24 09:04:21.561', source='compress.java(test.compress.run.208)', signCode='03', message='文件名:西游记.txt,文件大小:1172121字节,压缩后大小549976,压缩时间:60280,压缩率:53.078564%,解压缩时间:24'}
+LogEntity{timestamp='2021-05-24 09:09:42.981', source='compress.java(test.compress.run.209)', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小19338,压缩时间:476,压缩率:42.886673%,解压缩时间:7'}
+LogEntity{timestamp='2021-05-24 09:09:43.232', source='compress.java(test.compress.run.209)', signCode='03', message='文件名:log.txt,文件大小:52560字节,压缩后大小13943,压缩时间:243,压缩率:73.47222%,解压缩时间:4'}
+LogEntity{timestamp='2021-05-24 09:09:43.318', source='compress.java(test.compress.run.209)', signCode='03', message='文件名:workspace.xml,文件大小:15817字节,压缩后大小5568,压缩时间:84,压缩率:64.79736%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-24 09:10:07.816', source='compress.java(test.compress.run.209)', signCode='03', message='文件名:西游记.txt,文件大小:1172121字节,压缩后大小550365,压缩时间:24282,压缩率:53.045376%,解压缩时间:45'}
+LogEntity{timestamp='2021-05-24 09:17:09.873', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小19338,压缩时间:670,压缩率:42.886673%,解压缩时间:7'}
+LogEntity{timestamp='2021-05-24 09:17:10.221', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:log.txt,文件大小:52560字节,压缩后大小13943,压缩时间:336,压缩率:73.47222%,解压缩时间:5'}
+LogEntity{timestamp='2021-05-24 09:17:10.347', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:workspace.xml,文件大小:15817字节,压缩后大小5568,压缩时间:122,压缩率:64.79736%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-24 09:17:36.263', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:西游记.txt,文件大小:1172121字节,压缩后大小550365,压缩时间:25605,压缩率:53.045376%,解压缩时间:49'}
+LogEntity{timestamp='2021-05-24 09:18:50.953', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小19338,压缩时间:476,压缩率:42.886673%,解压缩时间:6,解压缩大小:33859'}
+LogEntity{timestamp='2021-05-24 09:18:51.220', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:log.txt,文件大小:52560字节,压缩后大小13943,压缩时间:258,压缩率:73.47222%,解压缩时间:5,解压缩大小:52560'}
+LogEntity{timestamp='2021-05-24 09:18:51.324', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:workspace.xml,文件大小:15817字节,压缩后大小5568,压缩时间:101,压缩率:64.79736%,解压缩时间:1,解压缩大小:15817'}
+LogEntity{timestamp='2021-05-24 09:19:14.649', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:西游记.txt,文件大小:1172121字节,压缩后大小550365,压缩时间:23080,压缩率:53.045376%,解压缩时间:66,解压缩大小:1172121'}
+LogEntity{timestamp='2021-05-24 09:20:07.235', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:LICENSE,文件大小:34520字节,压缩后大小19760,压缩时间:485,压缩率:42.75782%,解压缩时间:5,解压缩大小:34520'}
+LogEntity{timestamp='2021-05-24 09:20:07.524', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小14010,压缩时间:281,压缩率:73.52307%,解压缩时间:4,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 09:20:07.662', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:workspace.xml,文件大小:16220字节,压缩后大小5601,压缩时间:134,压缩率:65.46856%,解压缩时间:1,解压缩大小:16220'}
+LogEntity{timestamp='2021-05-24 09:20:33.968', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:西游记.txt,文件大小:1176141字节,压缩后大小556524,压缩时间:25967,压缩率:52.6822%,解压缩时间:72,解压缩大小:1176141'}
+LogEntity{timestamp='2021-05-24 09:24:57.70', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:LICENSE,文件大小:92847字节,压缩后大小30332,压缩时间:598,压缩率:67.3312%,解压缩时间:9,解压缩大小:92847'}
+LogEntity{timestamp='2021-05-24 09:24:57.687', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:log.txt,文件大小:140438字节,压缩后大小31222,压缩时间:600,压缩率:77.76813%,解压缩时间:4,解压缩大小:140438'}
+LogEntity{timestamp='2021-05-24 09:24:57.860', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:workspace.xml,文件大小:39439字节,压缩后大小10818,压缩时间:166,压缩率:72.5703%,解压缩时间:1,解压缩大小:39439'}
+LogEntity{timestamp='2021-05-24 09:25:18.331', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:西游记.txt,文件大小:5557294字节,压缩后大小1260601,压缩时间:20208,压缩率:77.316284%,解压缩时间:49,解压缩大小:5557294'}
+LogEntity{timestamp='2021-05-24 09:27:26.228', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:LICENSE,文件大小:92847字节,压缩后大小30332,压缩时间:770,压缩率:67.3312%,解压缩时间:14,解压缩大小:92847'}
+LogEntity{timestamp='2021-05-24 09:27:26.864', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:log.txt,文件大小:130886字节,压缩后大小28935,压缩时间:614,压缩率:77.892975%,解压缩时间:4,解压缩大小:130886'}
+LogEntity{timestamp='2021-05-24 09:27:27.138', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:workspace.xml,文件大小:38875字节,压缩后大小10591,压缩时间:267,压缩率:72.75627%,解压缩时间:2,解压缩大小:38875'}
+LogEntity{timestamp='2021-05-24 09:27:27.151', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:西游记.txt,文件大小:1179字节,压缩后大小562,压缩时间:5,压缩率:52.332485%,解压缩时间:1,解压缩大小:1179'}
+LogEntity{timestamp='2021-05-24 09:43:43.577', source='compress.java(test.compress.run.216)', signCode='03', message='文件名:LICENSE,文件大小:65536字节,压缩后大小24712,压缩时间:704,压缩率:62.29248%,解压缩时间:7,解压缩大小:65536'}
+LogEntity{timestamp='2021-05-24 09:43:43.865', source='compress.java(test.compress.run.216)', signCode='03', message='文件名:log.txt,文件大小:65396字节,压缩后大小16125,压缩时间:267,压缩率:75.34253%,解压缩时间:6,解压缩大小:65396'}
+LogEntity{timestamp='2021-05-24 09:43:43.955', source='compress.java(test.compress.run.216)', signCode='03', message='文件名:workspace.xml,文件大小:16382字节,压缩后大小5637,压缩时间:84,压缩率:65.59029%,解压缩时间:1,解压缩大小:16382'}
+LogEntity{timestamp='2021-05-24 09:43:43.959', source='compress.java(test.compress.run.216)', signCode='03', message='文件名:西游记.txt,文件大小:1024字节,压缩后大小376,压缩时间:2,压缩率:63.28125%,解压缩时间:0,解压缩大小:1024'}
+LogEntity{timestamp='2021-05-24 09:44:11.980', source='compress.java(test.compress.run.216)', signCode='03', message='文件名:LICENSE,文件大小:65536字节,压缩后大小24712,压缩时间:760,压缩率:62.29248%,解压缩时间:7,解压缩大小:65536'}
+LogEntity{timestamp='2021-05-24 09:44:12.285', source='compress.java(test.compress.run.216)', signCode='03', message='文件名:log.txt,文件大小:65396字节,压缩后大小16125,压缩时间:287,压缩率:75.34253%,解压缩时间:2,解压缩大小:65396'}
+LogEntity{timestamp='2021-05-24 09:44:12.400', source='compress.java(test.compress.run.216)', signCode='03', message='文件名:workspace.xml,文件大小:16382字节,压缩后大小5637,压缩时间:107,压缩率:65.59029%,解压缩时间:5,解压缩大小:16382'}
+LogEntity{timestamp='2021-05-24 09:44:12.404', source='compress.java(test.compress.run.216)', signCode='03', message='文件名:西游记.txt,文件大小:1024字节,压缩后大小376,压缩时间:1,压缩率:63.28125%,解压缩时间:1,解压缩大小:1024'}
+LogEntity{timestamp='2021-05-24 09:48:39.277', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:163209字节,压缩后大小39072,压缩时间:464,压缩率:76.06014%,解压缩时间:8,解压缩大小:163209'}
+LogEntity{timestamp='2021-05-24 09:48:39.983', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:285512字节,压缩后大小58646,压缩时间:593,压缩率:79.45936%,解压缩时间:5,解压缩大小:285512'}
+LogEntity{timestamp='2021-05-24 09:48:40.269', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:73937字节,压缩后大小17078,压缩时间:254,压缩率:76.901955%,解压缩时间:2,解压缩大小:73937'}
+LogEntity{timestamp='2021-05-24 09:49:15.475', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:西游记.txt,文件大小:7193229字节,压缩后大小2289638,压缩时间:33210,压缩率:68.16954%,解压缩时间:74,解压缩大小:7193229'}
+LogEntity{timestamp='2021-05-24 09:50:47.82', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:28字节,压缩后大小28,压缩时间:0,压缩率:0.0%,解压缩时间:0,解压缩大小:28'}
+LogEntity{timestamp='2021-05-24 09:50:47.178', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:28字节,压缩后大小28,压缩时间:0,压缩率:0.0%,解压缩时间:1,解压缩大小:28'}
+LogEntity{timestamp='2021-05-24 09:50:47.203', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:28字节,压缩后大小28,压缩时间:0,压缩率:0.0%,解压缩时间:1,解压缩大小:28'}
+LogEntity{timestamp='2021-05-24 09:50:49.197', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:西游记.txt,文件大小:28字节,压缩后大小28,压缩时间:1,压缩率:0.0%,解压缩时间:0,解压缩大小:28'}
+LogEntity{timestamp='2021-05-24 09:51:51.597', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:28字节,压缩后大小28,压缩时间:0,压缩率:0.0%,解压缩时间:1,解压缩大小:28'}
+LogEntity{timestamp='2021-05-24 09:51:51.699', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:28字节,压缩后大小28,压缩时间:0,压缩率:0.0%,解压缩时间:0,解压缩大小:28'}
+LogEntity{timestamp='2021-05-24 09:51:51.724', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:28字节,压缩后大小28,压缩时间:0,压缩率:0.0%,解压缩时间:1,解压缩大小:28'}
+LogEntity{timestamp='2021-05-24 09:51:53.682', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:西游记.txt,文件大小:28字节,压缩后大小28,压缩时间:1,压缩率:0.0%,解压缩时间:0,解压缩大小:28'}
+LogEntity{timestamp='2021-05-24 09:56:48.974', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:28字节,压缩后大小28,压缩时间:0,压缩率:0.0%,解压缩时间:1,解压缩大小:28'}
+LogEntity{timestamp='2021-05-24 09:56:49.57', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:28字节,压缩后大小28,压缩时间:0,压缩率:0.0%,解压缩时间:0,解压缩大小:28'}
+LogEntity{timestamp='2021-05-24 09:56:49.80', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:28字节,压缩后大小28,压缩时间:0,压缩率:0.0%,解压缩时间:1,解压缩大小:28'}
+LogEntity{timestamp='2021-05-24 09:56:51.78', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:西游记.txt,文件大小:28字节,压缩后大小28,压缩时间:0,压缩率:0.0%,解压缩时间:1,解压缩大小:28'}
+LogEntity{timestamp='2021-05-24 09:58:49.883', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:11字节,压缩后大小11,压缩时间:1,压缩率:0.0%,解压缩时间:1,解压缩大小:11'}
+LogEntity{timestamp='2021-05-24 09:58:49.978', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:11字节,压缩后大小11,压缩时间:1,压缩率:0.0%,解压缩时间:0,解压缩大小:11'}
+LogEntity{timestamp='2021-05-24 09:58:50.06', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:11字节,压缩后大小11,压缩时间:1,压缩率:0.0%,解压缩时间:0,解压缩大小:11'}
+LogEntity{timestamp='2021-05-24 09:58:51.962', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:西游记.txt,文件大小:11字节,压缩后大小11,压缩时间:1,压缩率:0.0%,解压缩时间:0,解压缩大小:11'}
+LogEntity{timestamp='2021-05-24 09:59:31.450', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小20018,压缩时间:466,压缩率:43.099968%,解压缩时间:6,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-24 09:59:31.819', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小14010,压缩时间:275,压缩率:73.52307%,解压缩时间:5,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 09:59:31.936', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小5598,压缩时间:88,压缩率:65.484924%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-24 09:59:57.867', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小556523,压缩时间:23985,压缩率:52.682247%,解压缩时间:44,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-24 10:01:24.519', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小18977,压缩时间:1759,压缩率:46.058952%,解压缩时间:4,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-24 10:01:25.285', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小13578,压缩时间:652,压缩率:74.33949%,解压缩时间:5,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 10:01:25.591', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小5258,压缩时间:277,压缩率:67.58123%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-24 10:02:33.147', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小556132,压缩时间:65257,压缩率:52.715492%,解压缩时间:57,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-24 10:09:33.58', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小18977,压缩时间:1323,压缩率:46.058952%,解压缩时间:4,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-24 10:09:33.682', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小13578,压缩时间:538,压缩率:74.33949%,解压缩时间:4,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 10:09:33.938', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小5258,压缩时间:230,压缩率:67.58123%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-24 10:10:40.526', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小556132,压缩时间:64662,压缩率:52.715492%,解压缩时间:48,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-24 10:13:45.426', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小18977,压缩时间:1288,压缩率:46.058952%,解压缩时间:3,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-24 10:13:46.25', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小13578,压缩时间:516,压缩率:74.33949%,解压缩时间:2,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 10:13:46.282', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小5258,压缩时间:232,压缩率:67.58123%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-24 10:14:55.704', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小556132,压缩时间:67445,压缩率:52.715492%,解压缩时间:34,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-24 10:21:05.479', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小20785,压缩时间:898,压缩率:40.919815%,解压缩时间:4,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-24 10:21:05.895', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小14055,压缩时间:323,压缩率:73.438034%,解压缩时间:3,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 10:21:06.62', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小5399,压缩时间:143,压缩率:66.71188%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-24 10:21:47.59', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小581989,压缩时间:38994,压缩率:50.517033%,解压缩时间:61,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-24 10:24:17.982', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小18977,压缩时间:1237,压缩率:46.058952%,解压缩时间:3,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-24 10:24:18.576', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小13578,压缩时间:511,压缩率:74.33949%,解压缩时间:3,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 10:24:18.821', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小5258,压缩时间:222,压缩率:67.58123%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-24 10:25:23.367', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小556133,压缩时间:62597,压缩率:52.71541%,解压缩时间:47,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-24 10:27:11.504', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小18977,压缩时间:1265,压缩率:46.058952%,解压缩时间:4,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-24 10:27:12.132', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小13578,压缩时间:541,压缩率:74.33949%,解压缩时间:4,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 10:27:12.377', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小5258,压缩时间:220,压缩率:67.58123%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-24 10:28:42.477', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小21738,压缩时间:870,压缩率:38.210964%,解压缩时间:4,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-24 10:28:42.897', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15823,压缩时间:327,压缩率:70.09676%,解压缩时间:3,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 10:28:43.46', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小5651,压缩时间:127,压缩率:65.15814%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-24 10:29:55.484', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小16037,压缩时间:3588,压缩率:54.415737%,解压缩时间:3,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-24 10:29:58.909', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小12663,压缩时间:3339,压缩率:76.06872%,解压缩时间:5,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 10:29:59.418', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小4958,压缩时间:476,压缩率:69.430916%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-24 10:53:03.780', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小21705,压缩时间:1638,压缩率:38.304764%,解压缩时间:4,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-24 10:53:04.482', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小14721,压缩时间:620,压缩率:72.17938%,解压缩时间:2,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 10:53:04.799', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小5807,压缩时间:292,压缩率:64.19631%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-24 10:53:27.809', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小21705,压缩时间:2163,压缩率:38.304764%,解压缩时间:4,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-24 10:53:28.744', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小14721,压缩时间:820,压缩率:72.17938%,解压缩时间:6,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 10:53:29.156', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小5807,压缩时间:379,压缩率:64.19631%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-24 10:54:52.853', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小22350,压缩时间:3861,压缩率:36.47139%,解压缩时间:5,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-24 10:54:54.499', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小9409,压缩时间:1521,压缩率:82.218315%,解压缩时间:4,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 10:54:55.135', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小4846,压缩时间:602,压缩率:70.12146%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-24 10:56:39.187', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小22350,压缩时间:2816,压缩率:36.47139%,解压缩时间:3,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-24 10:56:40.419', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小9409,压缩时间:1147,压缩率:82.218315%,解压缩时间:2,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 10:56:40.907', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小4846,压缩时间:466,压缩率:70.12146%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-24 10:57:29.389', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小21368,压缩时间:9039,压缩率:39.26267%,解压缩时间:6,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-24 10:57:33.114', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小8936,压缩时间:3621,压缩率:83.11222%,解压缩时间:3,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 10:57:34.793', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小4523,压缩时间:1650,压缩率:72.11295%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-24 10:58:20.52', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小21437,压缩时间:2573,压缩率:39.06654%,解压缩时间:4,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-24 10:58:21.313', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小11967,压缩时间:1156,压缩率:77.384056%,解压缩时间:4,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-24 10:58:21.835', source='compress.java(test.compress.run.219)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小5071,压缩时间:492,压缩率:68.7342%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 09:06:34.699', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32757,压缩时间:430,压缩率:6.8900833%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 09:06:35.112', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小25010,压缩时间:326,压缩率:52.734627%,解压缩时间:0,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 09:06:35.245', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小10151,压缩时间:110,压缩率:37.41291%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 09:07:11.736', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小1065482,压缩时间:34611,压缩率:9.408577%,解压缩时间:4,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-25 09:08:05.746', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32757,压缩时间:442,压缩率:6.8900833%,解压缩时间:3,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 09:08:06.205', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小25010,压缩时间:360,压缩率:52.734627%,解压缩时间:4,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 09:08:06.338', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小10151,压缩时间:103,压缩率:37.41291%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 09:08:44.369', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小1065482,压缩时间:36156,压缩率:9.408577%,解压缩时间:39,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-25 09:11:55.96', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32757,压缩时间:418,压缩率:6.8900833%,解压缩时间:3,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 09:11:55.517', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小25010,压缩时间:330,压缩率:52.734627%,解压缩时间:7,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 09:11:55.638', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小10151,压缩时间:91,压缩率:37.41291%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 09:12:36.370', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小1065482,压缩时间:38819,压缩率:9.408577%,解压缩时间:35,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-25 09:14:30.948', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32708,压缩时间:467,压缩率:7.029358%,解压缩时间:3,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 09:14:31.249', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15484,压缩时间:213,压缩率:70.73742%,解压缩时间:4,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 09:14:31.396', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9465,压缩时间:118,压缩率:41.642517%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 09:15:07.771', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小1065434,压缩时间:34453,压缩率:9.412651%,解压缩时间:30,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-25 09:15:26.593', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32685,压缩时间:524,压缩率:7.094742%,解压缩时间:5,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 09:15:26.932', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15404,压缩时间:244,压缩率:70.88861%,解压缩时间:3,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 09:15:27.79', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9438,压缩时间:111,压缩率:41.808987%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 09:16:07.355', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小1065467,压缩时间:38239,压缩率:9.409851%,解压缩时间:47,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-25 09:16:40.168', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32659,压缩时间:999,压缩率:7.168648%,解压缩时间:4,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 09:16:40.578', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15361,压缩时间:313,压缩率:70.96988%,解压缩时间:2,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 09:16:40.743', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9374,压缩时间:142,压缩率:42.203587%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 09:17:56.440', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小1055792,压缩时间:73475,压缩率:10.232452%,解压缩时间:31,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-25 09:18:03.868', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32697,压缩时间:709,压缩率:7.060631%,解压缩时间:6,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 09:18:04.314', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15565,压缩时间:317,压缩率:70.58434%,解压缩时间:6,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 09:18:04.510', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9593,压缩时间:155,压缩率:40.85332%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 09:18:45.442', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小1065158,压缩时间:38694,压缩率:9.436119%,解压缩时间:35,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-25 09:21:55.923', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32685,压缩时间:510,压缩率:7.094742%,解压缩时间:4,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 09:21:56.256', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15425,压缩时间:240,压缩率:70.84892%,解压缩时间:3,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 09:21:56.412', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9452,压缩时间:121,压缩率:41.72267%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 09:22:42.08', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小1065122,压缩时间:43593,压缩率:9.439178%,解压缩时间:42,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-25 10:07:41.38', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32685,压缩时间:604,压缩率:7.094742%,解压缩时间:3,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 10:07:41.405', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15425,压缩时间:252,压缩率:70.84892%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 10:09:18.888', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:test.db,文件大小:16384字节,压缩后大小15807,压缩时间:97455,压缩率:3.5217285%,解压缩时间:0,解压缩大小:16384'}
+LogEntity{timestamp='2021-05-25 10:09:19.25', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9452,压缩时间:108,压缩率:41.72267%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 10:09:59.353', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小1065122,压缩时间:38199,压缩率:9.439178%,解压缩时间:11,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-25 10:16:35.227', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32712,压缩时间:468,压缩率:7.01799%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 10:16:35.556', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15530,压缩时间:236,压缩率:70.65049%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 10:16:35.760', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9485,压缩时间:166,压缩率:41.519207%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 10:17:12.971', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小1065073,压缩时间:35250,压缩率:9.443352%,解压缩时间:5,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-25 14:08:30.466', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32612,压缩时间:422,压缩率:7.3022385%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 14:08:30.727', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15494,压缩时间:172,压缩率:70.71852%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 14:08:30.872', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9420,压缩时间:115,压缩率:41.91997%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 14:09:05.708', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小1050992,压缩时间:32912,压缩率:10.640564%,解压缩时间:8,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-25 14:10:33.575', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小33830,压缩时间:53,压缩率:3.8401413%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 14:10:33.685', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小38084,压缩时间:26,压缩率:28.026611%,解压缩时间:2,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 14:10:33.717', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小11523,压缩时间:6,压缩率:28.953697%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 14:10:36.989', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小1140225,压缩时间:1307,压缩率:3.0536346%,解压缩时间:10,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-25 14:11:25.988', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32634,压缩时间:347,压缩率:7.239708%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 14:11:26.220', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15578,压缩时间:145,压缩率:70.55978%,解压缩时间:0,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 14:11:26.320', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9423,压缩时间:75,压缩率:41.901474%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 14:11:51.893', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小1057381,压缩时间:23673,压缩率:10.097351%,解压缩时间:7,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-25 14:12:03.989', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32674,压缩时间:377,压缩率:7.126007%,解压缩时间:3,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 14:12:04.257', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15598,压缩时间:144,压缩率:70.52198%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 14:12:04.376', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9427,压缩时间:82,压缩率:41.876812%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 14:12:24.241', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:1176140字节,压缩后大小1066838,压缩时间:17316,压缩率:9.293282%,解压缩时间:9,解压缩大小:1176140'}
+LogEntity{timestamp='2021-05-25 14:14:37.459', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32674,压缩时间:253,压缩率:7.126007%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 14:14:37.669', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15598,压缩时间:108,压缩率:70.52198%,解压缩时间:2,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 14:14:37.751', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9427,压缩时间:52,压缩率:41.876812%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 14:14:46.163', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720484,压缩时间:5486,压缩率:0.99583435%,解压缩时间:5,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 14:15:41.971', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32674,压缩时间:263,压缩率:7.126007%,解压缩时间:5,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 14:15:42.172', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15598,压缩时间:112,压缩率:70.52198%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 14:15:42.262', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9427,压缩时间:61,压缩率:41.876812%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 14:15:49.860', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720484,压缩时间:4805,压缩率:0.99583435%,解压缩时间:5,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 14:16:40.774', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32674,压缩时间:248,压缩率:7.126007%,解压缩时间:3,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 14:16:40.974', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15598,压缩时间:108,压缩率:70.52198%,解压缩时间:3,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 14:16:41.57', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9427,压缩时间:55,压缩率:41.876812%,解压缩时间:2,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 14:16:49.35', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720484,压缩时间:4981,压缩率:0.99583435%,解压缩时间:20,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 14:18:06.484', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32612,压缩时间:456,压缩率:7.3022385%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 14:18:06.778', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15494,压缩时间:202,压缩率:70.71852%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 14:18:06.931', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9420,压缩时间:117,压缩率:41.91997%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 14:18:19.313', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720100,压缩时间:9520,压缩率:1.0485992%,解压缩时间:3,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 14:19:16.466', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32612,压缩时间:489,压缩率:7.3022385%,解压缩时间:4,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 14:19:16.797', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15494,压缩时间:236,压缩率:70.71852%,解压缩时间:4,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 14:19:16.954', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9420,压缩时间:125,压缩率:41.91997%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 14:19:32.592', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720100,压缩时间:12663,压缩率:1.0485992%,解压缩时间:21,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 14:22:02.221', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32585,压缩时间:518,压缩率:7.3789825%,解压缩时间:3,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 14:22:02.528', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15370,压缩时间:218,压缩率:70.952866%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 14:22:02.663', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9374,压缩时间:102,压缩率:42.203587%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 14:22:14.424', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720116,压缩时间:8964,压缩率:1.046402%,解压缩时间:3,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 14:22:29.437', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32598,压缩时间:505,压缩率:7.3420258%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 14:22:29.829', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15594,压缩时间:280,压缩率:70.52954%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 14:22:29.997', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9674,压缩时间:127,压缩率:40.353905%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 14:22:43.774', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720136,压缩时间:10581,压缩率:1.0436554%,解压缩时间:3,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 14:23:16.85', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32631,压缩时间:543,压缩率:7.24823%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 14:23:16.390', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15696,压缩时间:216,压缩率:70.33678%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 14:23:16.517', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9750,压缩时间:102,压缩率:39.88532%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 14:23:29.734', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720137,压缩时间:10323,压缩率:1.0435181%,解压缩时间:3,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 14:36:11.353', source='compress.java(test.compress.run.231)', signCode='02', message='文件名:LICENSE,文件大小:35181字节,压缩后大小35079,压缩时间:553,压缩率:0.28993225%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-25 14:36:13.936', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小52914,压缩时间:2488,压缩率:0.0%,解压缩时间:2,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 14:36:14.73', source='compress.java(test.compress.run.231)', signCode='02', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小15481,压缩时间:113,压缩率:4.5502167%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-25 14:36:28.830', source='compress.java(test.compress.run.231)', signCode='02', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小727527,压缩时间:11507,压缩率:0.028030396%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-25 14:36:28.831', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:西游记.zip,文件大小:64字节,压缩后大小64,压缩时间:1,压缩率:0.0%,解压缩时间:0,解压缩大小:64'}
+LogEntity{timestamp='2021-05-25 14:38:35.489', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32585,压缩时间:490,压缩率:7.3789825%,解压缩时间:3,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 14:38:35.766', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15370,压缩时间:183,压缩率:70.952866%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 14:38:35.925', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9374,压缩时间:129,压缩率:42.203587%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 14:38:47.372', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720116,压缩时间:8582,压缩率:1.046402%,解压缩时间:3,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 14:38:47.374', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:西游记.zip,文件大小:64字节,压缩后大小64,压缩时间:0,压缩率:0.0%,解压缩时间:0,解压缩大小:64'}
+LogEntity{timestamp='2021-05-25 14:46:35.967', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32585,压缩时间:552,压缩率:7.3789825%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 14:47:18.115', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:log.txt,文件大小:61584字节,压缩后大小23935,压缩时间:42144,压缩率:61.134384%,解压缩时间:1,解压缩大小:61584'}
+LogEntity{timestamp='2021-05-25 14:47:18.251', source='compress.java(test.compress.run.221)', signCode='03', message='文件名:workspace.xml,文件大小:16671字节,压缩后大小9712,压缩时间:135,压缩率:41.74315%,解压缩时间:0,解压缩大小:16671'}
+LogEntity{timestamp='2021-05-25 14:53:28.785', source='compress.java(test.compress.run.205)', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小18297,压缩时间:1390,压缩率:45.96119%,解压缩时间:2'}
+LogEntity{timestamp='2021-05-25 14:53:28.831', source='compress.java(test.compress.run.205)', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小2992,压缩时间:45,压缩率:81.732704%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-25 14:53:29.131', source='compress.java(test.compress.run.205)', signCode='03', message='文件名:workspace.xml,文件大小:16442字节,压缩后大小5327,压缩时间:298,压缩率:67.601265%,解压缩时间:1'}
+LogEntity{timestamp='2021-05-25 14:56:33.650', source='compress.java(test.compress.run.206)', signCode='03', message='文件名:LICENSE,文件大小:33859字节,压缩后大小18297,压缩时间:1401,压缩率:45.96119%,解压缩时间:3'}
+LogEntity{timestamp='2021-05-25 14:56:33.714', source='compress.java(test.compress.run.206)', signCode='03', message='文件名:test.db,文件大小:16379字节,压缩后大小2992,压缩时间:61,压缩率:81.732704%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-25 14:56:34.43', source='compress.java(test.compress.run.206)', signCode='03', message='文件名:workspace.xml,文件大小:16442字节,压缩后大小5327,压缩时间:328,压缩率:67.601265%,解压缩时间:0'}
+LogEntity{timestamp='2021-05-25 14:57:54.802', source='compress.java(test.compress.run.206)', signCode='03', message='文件名:西游记.txt,文件大小:723712字节,压缩后大小678077,压缩时间:80690,压缩率:6.3056793%,解压缩时间:30'}
+LogEntity{timestamp='2021-05-25 14:59:03.864', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32685,压缩时间:637,压缩率:7.094742%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 14:59:04.241', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15425,压缩时间:268,压缩率:70.84892%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 14:59:04.394', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9452,压缩时间:127,压缩率:41.72267%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 14:59:19.388', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小722517,压缩时间:12122,压缩率:0.7164688%,解压缩时间:3,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 14:59:19.390', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.zip,文件大小:64字节,压缩后大小64,压缩时间:1,压缩率:0.0%,解压缩时间:0,解压缩大小:64'}
+LogEntity{timestamp='2021-05-25 15:02:12.31', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32585,压缩时间:605,压缩率:7.3789825%,解压缩时间:3,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 15:02:12.280', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15390,压缩时间:247,压缩率:70.91507%,解压缩时间:0,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 15:02:12.399', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9388,压缩时间:117,压缩率:42.117268%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 15:02:23.275', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720115,压缩时间:10851,压缩率:1.0465393%,解压缩时间:3,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 15:02:46.940', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.zip,文件大小:913256字节,压缩后大小912725,压缩时间:23564,压缩率:0.058143616%,解压缩时间:7,解压缩大小:913256'}
+LogEntity{timestamp='2021-05-25 15:04:07.258', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32585,压缩时间:535,压缩率:7.3789825%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 15:04:07.495', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15390,压缩时间:234,压缩率:70.91507%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 15:04:07.613', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9388,压缩时间:117,压缩率:42.117268%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 15:04:18.13', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720115,压缩时间:10366,压缩率:1.0465393%,解压缩时间:5,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 15:04:42.985', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.zip,文件大小:913256字节,压缩后大小912725,压缩时间:24884,压缩率:0.058143616%,解压缩时间:7,解压缩大小:913256'}
+LogEntity{timestamp='2021-05-25 15:08:22.323', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32585,压缩时间:533,压缩率:7.3789825%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 15:08:22.564', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15390,压缩时间:235,压缩率:70.91507%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 15:08:22.690', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9388,压缩时间:124,压缩率:42.117268%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 15:08:31.922', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720115,压缩时间:9164,压缩率:1.0465393%,解压缩时间:3,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 15:10:41.327', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32585,压缩时间:520,压缩率:7.3789825%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 15:10:43.672', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15390,压缩时间:338,压缩率:70.91507%,解压缩时间:0,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 15:10:45.772', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9388,压缩时间:84,压缩率:42.117268%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 15:11:06.645', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32585,压缩时间:748,压缩率:7.3789825%,解压缩时间:4,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 15:11:06.962', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15390,压缩时间:308,压缩率:70.91507%,解压缩时间:2,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 15:11:07.146', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9388,压缩时间:180,压缩率:42.117268%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 15:11:17.898', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720115,压缩时间:10650,压缩率:1.0465393%,解压缩时间:4,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 15:11:36.338', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32585,压缩时间:695,压缩率:7.3789825%,解压缩时间:5,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 15:11:36.613', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15390,压缩时间:271,压缩率:70.91507%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 15:11:36.766', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9388,压缩时间:151,压缩率:42.117268%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 15:11:46.292', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720115,压缩时间:9479,压缩率:1.0465393%,解压缩时间:3,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 15:12:14.352', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32585,压缩时间:821,压缩率:7.3789825%,解压缩时间:7,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 15:12:14.677', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15390,压缩时间:319,压缩率:70.91507%,解压缩时间:3,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 15:12:14.835', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9388,压缩时间:154,压缩率:42.117268%,解压缩时间:2,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 15:12:25.402', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720115,压缩时间:10529,压缩率:1.0465393%,解压缩时间:23,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 15:12:49.981', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.zip,文件大小:913256字节,压缩后大小912725,压缩时间:24453,压缩率:0.058143616%,解压缩时间:23,解压缩大小:913256'}
+LogEntity{timestamp='2021-05-25 15:16:27.446', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32585,压缩时间:524,压缩率:7.3789825%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 15:16:27.674', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15390,压缩时间:225,压缩率:70.91507%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 15:16:27.796', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9388,压缩时间:121,压缩率:42.117268%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 15:16:37.814', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720115,压缩时间:9983,压缩率:1.0465393%,解压缩时间:3,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 15:20:51.825', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32585,压缩时间:544,压缩率:7.3789825%,解压缩时间:3,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 15:20:52.129', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15390,压缩时间:300,压缩率:70.91507%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 15:20:52.250', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9388,压缩时间:118,压缩率:42.117268%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 15:21:01.830', source='compress.java(test.compress.run.220)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720117,压缩时间:9543,压缩率:1.0462646%,解压缩时间:3,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 15:28:30.09', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32528,压缩时间:2017,压缩率:7.5410004%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 15:28:31.34', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15238,压缩时间:1023,压缩率:71.20233%,解压缩时间:0,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 15:28:31.241', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9353,压缩时间:206,压缩率:42.333065%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 15:29:39.217', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32616,压缩时间:442,压缩率:7.2908707%,解压缩时间:3,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 15:29:39.366', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15549,压缩时间:144,压缩率:70.61458%,解压缩时间:2,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 15:29:39.448', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9391,压缩时间:80,压缩率:42.098774%,解压缩时间:1,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 15:29:45.831', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720425,压缩时间:6336,压缩率:1.0039444%,解压缩时间:8,解压缩大小:727731'}
+LogEntity{timestamp='2021-05-25 15:36:47.502', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:LICENSE,文件大小:35181字节,压缩后大小32616,压缩时间:339,压缩率:7.2908707%,解压缩时间:2,解压缩大小:35181'}
+LogEntity{timestamp='2021-05-25 15:36:47.635', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:log.txt,文件大小:52914字节,压缩后大小15549,压缩时间:129,压缩率:70.61458%,解压缩时间:1,解压缩大小:52914'}
+LogEntity{timestamp='2021-05-25 15:36:47.696', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:workspace.xml,文件大小:16219字节,压缩后大小9391,压缩时间:59,压缩率:42.098774%,解压缩时间:0,解压缩大小:16219'}
+LogEntity{timestamp='2021-05-25 15:36:52.582', source='compress.java(test.compress.run.212)', signCode='03', message='文件名:西游记.txt,文件大小:727731字节,压缩后大小720425,压缩时间:4854,压缩率:1.0039444%,解压缩时间:4,解压缩大小:727731'}
 
 zhl this ss a test 20210525
 world this aas a test 20210525
@@ -8,4 +632,92 @@ world this aas a test 20210525
 zhl this ss a test 20210525
 world this aas a test 20210525
 zhl this ss a test 20210525
+world this aas a test 20210525
 zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525
+zhl this ss a test 20210525
+world this aas a test 20210525

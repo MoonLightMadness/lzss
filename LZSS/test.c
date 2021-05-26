@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "buffer.h"
 #include "log.h"
+#include"lzss.h"
 int main() {
 	char tc[]={ 'a','b','c','d','e' };
 	char* newchs = (char*)malloc(sizeof(char)*4);
@@ -16,5 +17,8 @@ int main() {
 	char* text = "{} this {} a test {}";
 	log_info(&log, text, 3,"zhl","ss","20210525");
 	log_info(&log, text, 3, "world", "aas", "20210525");
-
+	//lzss
+	char* chs = (char*)malloc(sizeof(char));
+	lzss_start("./LICENSE",chs);
+	lzss_decode("./test");
 }

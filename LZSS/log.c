@@ -28,20 +28,18 @@ Log LogFactory_get() {
 }
 
 void save_log(Log* log) {
-	FILE *p;
-	fopen_s(&p,"./log.txt", "a+");
+	FILE *p= fopen("./log.txt", "a+");
+	
 	int len = log->buffer.length;
 	char* text = log->buffer.chs;
-	if (!&p) {
-		fputc('\n', p);
-		for (int i = 0; i < len; i++)
-		{
-			fputc(text[i], p);
-		}
-		fclose(p);
-		free(log->buffer);
-		log->buffer = init_stringbuffer();
+	fputc('\n', p);
+	for (int i = 0; i < len; i++)
+	{
+		fputc(text[i], p);
 	}
+	fclose(p);
+	log->buffer = init_stringbuffer();
+	printf("\n%s\n", "save success");
 }
 
 

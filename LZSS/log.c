@@ -32,14 +32,16 @@ void save_log(Log* log) {
 	fopen_s(&p,"./log.txt", "a+");
 	int len = log->buffer.length;
 	char* text = log->buffer.chs;
-	fputc('\n', p);
-	for (int i = 0; i < len; i++)
-	{
-		fputc(text[i],p);
+	if (!&p) {
+		fputc('\n', p);
+		for (int i = 0; i < len; i++)
+		{
+			fputc(text[i], p);
+		}
+		fclose(p);
+		free(log->buffer);
+		log->buffer = init_stringbuffer();
 	}
-	fclose(p);
-	free(log->buffer);
-	log->buffer = init_stringbuffer();
 }
 
 

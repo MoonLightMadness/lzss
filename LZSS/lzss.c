@@ -2,7 +2,7 @@
 
 char* read_file(char* filepath,int offset,int len) {
 	FILE *p;
-	fopen_s(p, filepath, "r+");
+	fopen_s(&p, filepath, "r+");
 	fseek(p, offset, SEEK_CUR);
 	char* data = (char*)malloc(sizeof(char)*len);
 	for (int i = 0; i < len; i++) {
